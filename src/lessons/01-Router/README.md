@@ -1,0 +1,1 @@
+**Create Basic Routes with the React Router v4 BrowserRouter** - React Router 4 has several routers built in for different purposes. The primary one you will use for building web applications is the BrowserRouter. In this lesson you will import the BrowserRouter and create some basic Route components.
